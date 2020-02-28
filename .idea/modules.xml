@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/amq-auth-plugin/amq-auth-plugin.iml" filepath="$PROJECT_DIR$/amq-auth-plugin/amq-auth-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amq-auth-plugin-test/amq-auth-plugin-test.iml" filepath="$PROJECT_DIR$/amq-auth-plugin-test/amq-auth-plugin-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/amq-consumer-auth-plugin/amq-consumer-auth-plugin.iml" filepath="$PROJECT_DIR$/amq-consumer-auth-plugin/amq-consumer-auth-plugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/amqauth.iml" filepath="$PROJECT_DIR$/.idea/amqauth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/activemq-cluster-demo/demo.iml" filepath="$PROJECT_DIR$/activemq-cluster-demo/demo.iml" />
+    </modules>
+  </component>
+</project>
